@@ -1,6 +1,6 @@
 # Movie-Streaming-Webpage
 
-## Webpage URL: [Live](https://adityapandey1111.github.io/Movie-Streaming-Webpage/)
+## Webpage URL: [Live](https://adityapandey1111.github.io/Movie-Streaming-Landing-Page/)
 
 ![1](https://github.com/adityapandey1111/Movie-Streaming-Landing-Page/assets/114282369/bd523d57-3ce8-48c0-9f5e-dd227fa460fa)
 
